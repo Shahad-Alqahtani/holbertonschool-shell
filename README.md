@@ -1,1 +1,1 @@
-My shell basics project
+Holberton School Shell Project - Basics
