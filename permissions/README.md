@@ -17,3 +17,4 @@
 12-directory_permissions: Creates directory my_dir with 751 permissions.
 13-change_group: Changes group owner of hello to school.
 14-change_owner_and_group: Changes owner to vincent and group to staff for all files/dirs.
+14-change_owner_and_group: Changes owner to vincent and group to staff for all files/dirs.
