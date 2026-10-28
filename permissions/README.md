@@ -10,3 +10,4 @@
 7-everybody: Adds execute permission to everyone on the file hello.
 8-James_Bond: Sets permissions of hello to 007 (James Bond style).
 8-James_Bond: Sets permissions of hello to 007 (James Bond style).
+9-John_Doe: Sets permissions of hello to rwxr-x-wx (753).
