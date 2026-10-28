@@ -11,3 +11,4 @@
 7-movethatfile: Moves betty to my_first_directory.
 8-firstdelete: Deletes betty.
 9-firstdirdeletion: Deletes the directory.
+10-back: Changes directory to previous.
