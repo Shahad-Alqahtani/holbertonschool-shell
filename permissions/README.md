@@ -12,3 +12,4 @@
 8-James_Bond: Sets permissions of hello to 007 (James Bond style).
 9-John_Doe: Sets permissions of hello to rwxr-x-wx (753).
 10-mirror_permissions: Copies permissions from olleh to hello.
+10-mirror_permissions: Copies permissions from olleh to hello.
