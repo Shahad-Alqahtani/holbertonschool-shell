@@ -19,3 +19,4 @@
 14-change_owner_and_group: Changes owner to vincent and group to staff for all files/dirs.
 14-change_owner_and_group: Changes owner to vincent and group to staff for all files/dirs.
 15-symbolic_link_permissions: Changes owner and group of the symbolic link _hello.
+16-if_only: Changes owner of hello to vincent only if it is owned by guillaume.
