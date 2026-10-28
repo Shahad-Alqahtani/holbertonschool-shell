@@ -16,3 +16,4 @@
 12-file_type: Prints the file type.
 13-symbolic_link: Creates a symbolic link.
 14-copy_html: Copies updated or new html files to parent directory.
+15-lets_move: Moves files beginning with an uppercase letter to /tmp/u.
