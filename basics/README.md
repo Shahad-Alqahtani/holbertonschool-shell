@@ -14,3 +14,4 @@
 10-back: Changes directory to previous.
 11-lists: Lists current, parent, and /boot directories.
 12-file_type: Prints the file type.
+13-symbolic_link: Creates a symbolic link.
