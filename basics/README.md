@@ -6,3 +6,4 @@
 3-listfiles: Displays the current directory contents in a long format.
 4-listmorefiles: Displays current directory contents including hidden files using the long format.
 4-listmorefiles: Displays current directory contents including hidden files using the long format.
+5-listfilesdigitonly: Displays directory contents in long format with numeric user/group IDs, including hidden files.
