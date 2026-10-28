@@ -12,3 +12,4 @@
 8-firstdelete: Deletes betty.
 9-firstdirdeletion: Deletes the directory.
 10-back: Changes directory to previous.
+11-lists: Lists current, parent, and /boot directories.
