@@ -12,3 +12,4 @@
 - `6-third_line`: Displays the third line of the file iacta.
 - `7-file`: Creates a file with a special-character name containing the text Best School ending by a new line.
 - `8-cwd_state`: Writes into the file ls_cwd_content the result of the command ls -la (overwrites the file if it exists, creates it otherwise).
+- `9-duplicate_last_line`: Duplicates the last line of the file iacta.
