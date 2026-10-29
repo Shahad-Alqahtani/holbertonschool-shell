@@ -17,3 +17,4 @@
 - `11-directories`: Counts the number of directories and sub-directories (hidden ones included) in the current directory, not counting the current and parent directories.
 - `11-directories`: Counts the number of directories and sub-directories (hidden ones included) in the current directory, not counting the current and parent directories.
 - `12-newest_files`: Displays the 10 newest files in the current directory, one file per line, sorted from the newest to the oldest.
+- `13-unique`: Takes a list of words as input (one per line) and prints only the words that appear exactly once, sorted.
