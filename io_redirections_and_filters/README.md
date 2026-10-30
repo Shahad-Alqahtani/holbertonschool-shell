@@ -31,3 +31,4 @@
 23-empty_casks: Finds all empty files and directories and prints only their names.
 24-gifs: Lists all regular .gif files without extension, case-insensitive sorted.
 25-acrostic: Decodes acrostics by printing the first letter of each line.
+26-the_biggest_fan: Displays the 11 most active hosts or IP addresses from web server logs.
