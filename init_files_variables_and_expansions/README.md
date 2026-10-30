@@ -4,3 +4,4 @@
 
 - `0-alias`: Creates an alias named ls with the value rm -f *.
 - `1-hello_you`: Prints hello user, where user is the current Linux user.
+- `2-path`: Adds /action to the PATH as the last directory the shell looks into when looking for a program.
