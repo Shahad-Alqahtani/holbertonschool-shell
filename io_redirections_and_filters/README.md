@@ -29,3 +29,4 @@
 - `22-users_and_homes`: Displays all users and their home directories, sorted by users, based on the /etc/passwd file.
 - `22-users_and_homes`: Displays all users and their home directories, sorted by users, based on the /etc/passwd file.
 23-empty_casks: Finds all empty files and directories and prints only their names.
+24-gifs: Lists all regular .gif files without extension, case-insensitive sorted.
