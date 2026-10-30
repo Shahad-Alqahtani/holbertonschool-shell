@@ -19,3 +19,4 @@
 13-print_float: Prints a number with two decimal places.
 - `15-rot13`: Encodes and decodes text using the rot13 encryption (ASCII).
 - `16-odd`: Prints every other line from the input, starting with the first line.
+- `17-water_and_stir`: Adds the numbers in WATER (base water) and STIR (base stir.) and prints the result in base bestchol.
